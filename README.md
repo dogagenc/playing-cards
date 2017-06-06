@@ -6,7 +6,7 @@
 ## Usage
 ```js
 // Node & AMD
-import { Deck, Player } from 'playing-cards-js';
+import { Deck, Player } from 'playing-cards-js'; 
 const deck = new Deck();
 
 // Browser
